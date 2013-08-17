@@ -1,0 +1,8 @@
+Server icon, computer icon:
+	from Tangerine icon theme, CC BY SA 2.5, Copyright 2004-2006 Canonical Ltd.
+Ruled_paper_note_with_pin.svg:
+	from http://commons.wikimedia.org/wiki/File:Ruled_paper_note_with_pin.svg,
+	Author: Andreas Plank, CC-BY-SA-3.0 Unported
+dialog-password.svg:
+	from Gnome icon theme, CC-BY-SA 3.0 United States, Author: GNOME Project
+All other icons from Tango icon theme, public domain.
